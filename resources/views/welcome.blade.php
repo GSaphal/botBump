@@ -1,7 +1,9 @@
 @extends('layouts.app')
 
 @section('title')
-    botBump | Solving Problems
+    botBump
 @endsection
 @section('content')
+@include('partials.navbar')
+
 @endsection

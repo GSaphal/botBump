@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.navbar
+{
+    font-size: 18px;
+}
+.navbar.navbar-dark .breadcrumb .nav-item.active>.nav-link, .navbar.navbar-dark .navbar-nav .nav-item.active>.nav-link
+{
+    background:green;
+}
+.nav-item
+{
+    padding-right: 25px;
+}
